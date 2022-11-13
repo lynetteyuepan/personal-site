@@ -1,15 +1,15 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Columbia University Mailman School of Public Health ',
+    degree: 'M.S. Biostatistics (Theory and Methods)',
+    link: 'https://www.publichealth.columbia.edu/',
+    year: 2019,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'University of California, Santa Barbara (UCSB)',
+    degree: 'B.S. Biological Sciences & Minor in Applied Psychology',
+    link: 'https://www.ucsb.edu/',
+    year: 2017,
   },
 ];
 
